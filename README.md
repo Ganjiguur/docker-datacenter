@@ -13,7 +13,7 @@
     <img src="https://fibo-resources.s3-ap-southeast-1.amazonaws.com/1.jpg">
 </p>
 
-## 2. Өөрт байгаа image-үүдээс cloud repo рүү оруулах image-г сонгож tag-лах.
+## 2. Өөрт байгаа image-үүдээс cloud repo рүү оруулах image-г сонгож tag-лах
 <p align="center">
     <img src="https://fibo-resources.s3-ap-southeast-1.amazonaws.com/2.jpg">
 </p>
@@ -26,7 +26,7 @@ Tag хийхэд тухайн image-ний аль tag-г ямар болгох �
 * darkhaa - Хэрэглэгчийн нэр/бүлэг
 * busybox:latest - Docker image нэр болон tag
 
-## 3. Tag-ласны дараа push хийх боломжтой болох юм.
+## 3. Tag-ласны дараа push хийх боломжтой болох юм
 <p align="center">
     <img src="https://fibo-resources.s3-ap-southeast-1.amazonaws.com/4.jpg">
 </p>
