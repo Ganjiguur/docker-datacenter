@@ -4,7 +4,7 @@
 
 Одоо байгаа upload хийгдсэн docker image үүдийг харахдаа `https://docker.datacenter.gov.mn` орж харна.
 
-Харин өөрийн image-г оруулахдаа `docker.datacenter.gov.mn/{image_name}:{tag}` tag-ласны дараа push хийнэ.
+Харин өөрийн image-г оруулахдаа `docker.datacenter.gov.mn/{image_name}:{tag}` загварын дагуу tag-ласны дараа push хийнэ.
 
 # Жишээ зааврыг доор оруулав
 
