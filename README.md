@@ -12,6 +12,7 @@
 <p align="center">
     <img src="https://fibo-resources.s3-ap-southeast-1.amazonaws.com/1.jpg">
 </p>
+
 ## 2. Өөрт байгаа image-үүдээс cloud repo рүү оруулах image-г сонгож tag-лах.
 <p align="center">
     <img src="https://fibo-resources.s3-ap-southeast-1.amazonaws.com/2.jpg">
